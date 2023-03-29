@@ -1,9 +1,10 @@
 # **HTR Sorter**
-## **What is this?**
-This is a simple code snippet that can sort your HTR results raws into CSV & export them into plots. Since there are many cage types in the raw files, it is important to sort them well. In that situation, this code can help you to sort them easily.
 
 ## **About HTR Algorithm**
 [HTR Algorithm](https://www.degruyter.com/document/doi/10.1515/ntrev-2022-0044/html) is a ultra-fast tool to identify the cage types in the molecular dynamics (MD) simulations. It is a very useful tool to analyze the cage types in the MD simulations. I highly appreciate the authors of the HTR Algorithm for generously sharing the HTR codes. <br/>
+
+## **What is this?**
+This is a simple code snippet that can sort your HTR results raws into CSV & export them into plots. Since there are many cage types in the raw files, it is important to sort them well. In that situation, this code can help you to sort them easily.
 
 ## **Gallery**
 | **(1) Number of cage types in each frame** | **(2) The number of dissociated cages** | **(3) Degree of crystallinity** |
