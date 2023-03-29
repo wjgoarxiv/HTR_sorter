@@ -4,13 +4,13 @@ This is a simple code snippet that can sort your HTR results raws into CSV & exp
 
 ## **Gallery**
 ### **(1) Number of cage types in each frame**
-<img src = "https://github.com/wjgoarxiv/HTR_sorter/blob/20b69286d4c299d4e7e12faae0f677c463909a8f/Number_of_cage_types.png" style="max-width: 70%; height: auto;">
+<img src = "https://github.com/wjgoarxiv/HTR_sorter/blob/20b69286d4c299d4e7e12faae0f677c463909a8f/Number_of_cage_types.png" style="width: 600px; height:auto;">
 
 ### **(2) The number of dissociated cages**
-<img src = "https://github.com/wjgoarxiv/HTR_sorter/blob/20b69286d4c299d4e7e12faae0f677c463909a8f/Absolute_changes_from_initial_number_of_cage_types.png" style="max-width: 70%; height: auto;">
+<img src = "https://github.com/wjgoarxiv/HTR_sorter/blob/20b69286d4c299d4e7e12faae0f677c463909a8f/Absolute_changes_from_initial_number_of_cage_types.png" style="width: 600px; height:auto;">
 
 ### **(3) Degree of crystallinity**
-<img src = "https://github.com/wjgoarxiv/HTR_sorter/blob/20b69286d4c299d4e7e12faae0f677c463909a8f/Degree_of_crystallinity.png" style="max-width: 70%; height: auto;">
+<img src = "https://github.com/wjgoarxiv/HTR_sorter/blob/20b69286d4c299d4e7e12faae0f677c463909a8f/Degree_of_crystallinity.png" style="width: 600px; height:auto;">
 
 ## **How to use?**
 First, all the code snippets are written in `.ipynb` file format. If you want to see the codes in `.ipynb` file well, go to the following link. <br/>
