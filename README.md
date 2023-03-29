@@ -3,14 +3,9 @@
 This is a simple code snippet that can sort your HTR results raws into CSV & export them into plots. Since there are many cage types in the raw files, it is important to sort them well. In that situation, this code can help you to sort them easily.
 
 ## **Gallery**
-### **(1) Number of cage types in each frame**
-<img src = "https://github.com/wjgoarxiv/HTR_sorter/blob/20b69286d4c299d4e7e12faae0f677c463909a8f/Number_of_cage_types.png" style="width: 600px; height:auto;">
-
-### **(2) The number of dissociated cages**
-<img src = "https://github.com/wjgoarxiv/HTR_sorter/blob/20b69286d4c299d4e7e12faae0f677c463909a8f/Absolute_changes_from_initial_number_of_cage_types.png" style="width: 600px; height:auto;">
-
-### **(3) Degree of crystallinity**
-<img src = "https://github.com/wjgoarxiv/HTR_sorter/blob/20b69286d4c299d4e7e12faae0f677c463909a8f/Degree_of_crystallinity.png" style="width: 600px; height:auto;">
+| **(1) Number of cage types in each frame** | **(2) The number of dissociated cages** | **(3) Degree of crystallinity** |
+| ----- | ----- | ----- |
+| <img src = "https://github.com/wjgoarxiv/HTR_sorter/blob/20b69286d4c299d4e7e12faae0f677c463909a8f/Number_of_cage_types.png" style="width: 600px; height:auto;"> | <img src = "https://github.com/wjgoarxiv/HTR_sorter/blob/20b69286d4c299d4e7e12faae0f677c463909a8f/Absolute_changes_from_initial_number_of_cage_types.png" style="width: 600px; height:auto;"> | <img src = "https://github.com/wjgoarxiv/HTR_sorter/blob/20b69286d4c299d4e7e12faae0f677c463909a8f/Degree_of_crystallinity.png" style="width: 600px; height:auto;"> |
 
 ## **How to use?**
 First, all the code snippets are written in `.ipynb` file format. If you want to see the codes in `.ipynb` file well, go to the following link. <br/>
